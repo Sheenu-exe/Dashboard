@@ -1,6 +1,6 @@
 @font-face {
     font-family: azeret;
-    src: url(fonts/Azeret-Medium.ttf);
+    src: url(Azeret-Medium.ttf);
 }
 *{
     font-family: azeret;
